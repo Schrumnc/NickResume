@@ -8,4 +8,4 @@ I am a student at appstate
 ### Student
 ### Employment
 
-<img src="Nola and Nick.jpg">
+<img src="NolaNick.jpg">
